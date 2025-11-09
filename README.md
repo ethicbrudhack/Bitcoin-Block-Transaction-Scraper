@@ -83,3 +83,5 @@ Collecting TXIDs for later use in forensic or verification scripts
 
 This script was created for educational and data-collection purposes — it does not perform any mining or private key access.
 It’s safe to run, read-only, and uses only public blockchain APIs.
+BTC donation address:
+bc1q4nyq7kr4nwq6zw35pg0zl0k9jmdmtmadlfvqhr
